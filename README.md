@@ -1,9 +1,11 @@
 # Real-Time Tracking App - Backend
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Node.js](https://img.shields.io/badge/Node.js-v18.x-green) ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-v18.x-green) ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 
 ## 📖 Overview
-The backend service for **Real-Time Tracking App**, a real-time tracking application. This API handles user authentication, device management, and processes live location streams using **[Technology, e.g., WebSockets / Socket.io / MQTT]**.
+The backend service for **Real-Time Tracking App**, a real-time tracking application. This API handles user authentication, device management, and processes live location streams using **[Technology: Socket.io**.
+[overview]
+
 
 It is designed to handle high-frequency location updates and store historical route data for analytics.
 
